@@ -1,0 +1,22 @@
+.note{
+    font-size: 15px;
+    color: black;
+}
+.name{
+    font-size: 23px;
+    width: 100%;
+   
+    box-shadow: 8px 8px 8px rgb(95, 94, 86);
+}
+canvas{
+    border: 5px ridge white;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px rgb(95,94, 86);
+   background-color: cornflowerblue;
+}
+body{
+    background-image: url("doodle.jpg");
+}
+
+
+  
